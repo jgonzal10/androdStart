@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\.android\\build-cache\\a4c5938e946484f0f55853f9680c15cc8c312405\\output\\res\\values-xlarge-land\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]

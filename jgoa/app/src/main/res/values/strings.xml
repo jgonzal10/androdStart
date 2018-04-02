@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">zazul</string>
+    <string name="prompt_user">Usuário</string>
+    <string name="prompt_password">Senha</string>
+    <string name="pim">PIM</string>
+    <string name="imei">IMEI</string>
+    <string name="versao">Versão:</string>
+    <string name="action_sign_in">Entrar</string>
+
+    <string name="ValidarDevice">http://177.1.213.214/StarnetService/api/Geral/ConsultaDevice</string>
+</resources>

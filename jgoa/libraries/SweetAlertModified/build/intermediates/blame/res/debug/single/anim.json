@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\expandable_show.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\4d708a83a98806b15954fccef024ffa2aab8ecfe\\output\\res\\anim\\expandable_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\src\\main\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\expandable_hide.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\4d708a83a98806b15954fccef024ffa2aab8ecfe\\output\\res\\anim\\expandable_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a4c5938e946484f0f55853f9680c15cc8c312405\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a4c5938e946484f0f55853f9680c15cc8c312405\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\src\\main\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\src\\main\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\src\\main\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\src\\main\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a4c5938e946484f0f55853f9680c15cc8c312405\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a4c5938e946484f0f55853f9680c15cc8c312405\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\src\\main\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a4c5938e946484f0f55853f9680c15cc8c312405\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\JGO\\ZONAAZUL\\app\\zonaazul\\libraries\\SweetAlertModified\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\a4c5938e946484f0f55853f9680c15cc8c312405\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]
